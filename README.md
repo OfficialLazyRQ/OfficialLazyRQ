@@ -1,7 +1,7 @@
 
   <p align="center">
-    <a href="https://discord.com/users/943374631644045363">
-        <img title="Sarnax discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-3/943374631644045363.png"/>
+    <a href="https://discord.com/users/724786271855050854">
+        <img title="RQ discord" alt="LazyRQ's discord" src="https://discord.c99.nl/widget/theme-3/943374631644045363.png"/>
     </a>
 </p>
 
