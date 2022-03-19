@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-    <a href="https://discord.com/users/724786271855050854">
+    ![Discord Banner 2](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner2)
         <img src="https://discord.com/api/guilds/954860526230466680/widget.json?style=banner2" alt="Discord Banner 2"/>
-    </a>
 </p>
 
 ### 💬 Discord For Support : [RQ Community](https://discord.gg/3jPwJT7znS) (Add Friend For Invite Discord)
