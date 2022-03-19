@@ -5,9 +5,9 @@
     </a>
 </p>
 
-### 💬 Discord For Support : [RQ Community](https://discord.gg/3jPwJT7znS) (Add Friend For Invite Discord)
-> - Contact Cheating Private / Source DM 
-> - We do not expect profit We hope you only get good things.
+### 💬 Discord For Support : [RQ Community](https://discord.gg/3jPwJT7znS) Join for any type of help you need!
+> - Contact for development of cheating service.
+> - Join Discord for any coding or problems you may have.
 ***
 
 
