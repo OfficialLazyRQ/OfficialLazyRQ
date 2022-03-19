@@ -5,7 +5,7 @@
     </a>
 </p>
 
-<p align="Left">
+<p align="center">
     <a href="https://discord.com/users/724786271855050854">
         <img src="https://discord.com/api/guilds/954860526230466680/widget.json?style=banner2" alt="Discord Banner 2"/>
     </a>
@@ -24,8 +24,3 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-OfficialLazyRQ/OfficialLazyRQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
