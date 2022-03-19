@@ -41,7 +41,7 @@
         <img title="Lazy's stats" alt="Lazy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OfficialLazyRQ&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 </p><br>
-<a href="https://github.com/OfficialLazyRQ"><img alt="Lazy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SarOfficialLazyRQ&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/OfficialLazyRQ"><img alt="Lazy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=OfficialLazyRQ&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
   
 
 <h2 align="center">Contact me</h2>
