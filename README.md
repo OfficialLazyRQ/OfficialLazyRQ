@@ -37,7 +37,7 @@
 <h2 align="center">My github profile stastictics.</h2>
 
 <p align="center">
-    <a href="https://github.com/SarnaxLii">
+    <a href="https://github.com/OfficialLazyRQ">
         <img title="Lazy's stats" alt="Lazy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OfficialLazyRQ&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 </p><br>
