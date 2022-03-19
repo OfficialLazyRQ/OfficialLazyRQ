@@ -4,7 +4,7 @@
         <img title="RQ discord" alt="LazyRQ's discord" src="https://discord.c99.nl/widget/theme-3/724786271855050854.png"/>
     </a>
 </p>
-
+![Discord Banner 2](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner2)
 <p align="Left">
     <a href="https://discord.com/users/724786271855050854">
         <img src="https://discordapp.com/api/guilds/954860526230466680/widget.png?style=banner2" alt="Discord Banner 2"/>
